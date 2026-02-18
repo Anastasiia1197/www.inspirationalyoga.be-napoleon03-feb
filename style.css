@@ -39,23 +39,23 @@
 :root {
 	interpolate-size: allow-keywords;
 
-	--background: linear-gradient(45deg, #0c0a09 0%, #1c1917 45%, #0c0a09 100%);
-	--header: linear-gradient(90deg, #1c1917e0, #2dd4bf, #0c0a09);
-	--btn-accent: linear-gradient(135deg, #fb923c, #ea580c);
-	--btn-inherit: #fff7ed;
-	--accent: linear-gradient(135deg, #f97316, #c2410c);
-	--sub-title: linear-gradient(-135deg, #2dd4bf30, #042f2e);
-	--gift: #f0fdfae1;
-	--gift-bg: rgba(251, 146, 60, 0.1);
-	--gift-btn: linear-gradient(135deg, #9a3412, #431407);
-	--border-radius: 10px;
-	--container: #0c0a09;
-	--table: linear-gradient(180deg, #1c1917, #0c0a09);
-	--minus: #38bdf8;
-	--shadow: #fb923c50;
-	--second-shadow: #ea580c;
-	--text-shadow: #2dd4bf;
-	--list-bg: linear-gradient(90deg, rgba(45, 212, 191, 0.1), rgba(251, 146, 60, 0.1));
+	--background: linear-gradient(135deg, #020203 0%, #0a0a0f 45%, #020203 100%);
+	--header: linear-gradient(90deg, #0a0a0f, #6366f1, #020203);
+	--btn-accent: linear-gradient(135deg, #fb923c, #f97316);
+	--btn-inherit: #eef2ff;
+	--accent: linear-gradient(135deg, #818cf8, #4f46e5);
+	--sub-title: linear-gradient(-135deg, rgba(99, 102, 241, 0.2), #0a0a0f);
+	--gift: #e0e7ff;
+	--gift-bg: rgba(99, 102, 241, 0.08);
+	--gift-btn: linear-gradient(135deg, #312e81, #0a0a0f);
+	--border-radius: 16px;
+	--container: #050507;
+	--table: linear-gradient(180deg, #0a0a0f, #020203);
+	--minus: #f43f5e;
+	--shadow: rgba(99, 102, 241, 0.2);
+	--second-shadow: #6366f1;
+	--text-shadow: #818cf8;
+	--list-bg: linear-gradient(90deg, rgba(99, 102, 241, 0.1), rgba(249, 115, 22, 0.05));
 }
 
 * {
